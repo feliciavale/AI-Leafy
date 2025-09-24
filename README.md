@@ -11,7 +11,9 @@ The project utilizes the TensorFlow Object Detection API with a SSD MobileNet V1
 
 # Technologies Used
 - React Native
+- Node.js
+- JavaScript
+- JavaScript eXtension (JSX)
 - TensorFlow.js
 - TensorFlow Object Detection API
 - SSD MobileNet V1 (Pre-trained Model)
-- C#
